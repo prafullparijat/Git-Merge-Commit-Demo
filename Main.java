@@ -6,7 +6,7 @@ public class Main {
         int b = 19;
         int sum, diff, mul;
         Main calc = new Main();
-        sum = calc.add(a, b);
+        sum = calc.addition(a, b);
         System.out.println("Sum of A and B is "+sum);
         //diff = calc.substract(a, b);
         //System.out.println("Difference of A and B is "+ diff);
